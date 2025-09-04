@@ -1,0 +1,1 @@
+# Functional_And_Logical_Programming_6_sem_BMSTU
